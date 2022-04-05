@@ -1,10 +1,8 @@
 ---
 title: "JSC370 Final Project"
-author: "Your Name"
+author: "Hantang Li"
 output: 
-    html_document:
-        toc: TRUE
-        toc_float: TRUE
+    html_document
 ---
 
 This is my JSC370 Final Project website.
@@ -14,5 +12,6 @@ This is my JSC370 Final Project website.
 
 ```{r}
 #https://fontawesome.com/
+plot(0:20)
 ```
 

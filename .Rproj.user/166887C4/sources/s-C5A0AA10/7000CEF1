@@ -1,9 +1,9 @@
 {
     "id": "7000CEF1",
-    "path": "~/lht/a_fourth_year/JSC370/labs/lab_git/JSC370-labs/lab12/README.md",
+    "path": "~/lht/a_fourth_year/JSC370/labs/lab12_git/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "1517193239",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1649187094904.0,
@@ -11,14 +11,16 @@
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "5,69",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649186309,
+    "lastKnownWriteTime": 1649191242,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649186309,
+    "last_content_update": 1649191242880,
     "read_only": false,
     "read_only_alternatives": []
 }
