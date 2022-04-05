@@ -1,0 +1,42 @@
+"0","library(dplyr)"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","source(""process_COVID_data.R"")"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2"," [0%] Downloaded 2742 bytes..."
+"2"," [13%] Downloaded 45563 bytes..."
+"2"," [14%] Downloaded 46934 bytes..."
+"2"," [14%] Downloaded 48237 bytes..."
+"2"," [24%] Downloaded 81005 bytes..."
+"2"," [29%] Downloaded 97389 bytes..."
+"2"," [34%] Downloaded 113773 bytes..."
+"2"," [39%] Downloaded 130157 bytes..."
+"2"," [44%] Downloaded 146541 bytes..."
+"2"," [49%] Downloaded 162925 bytes..."
+"2"," [54%] Downloaded 179309 bytes..."
+"2"," [64%] Downloaded 212077 bytes..."
+"2"," [74%] Downloaded 244845 bytes..."
+"2"," [79%] Downloaded 261229 bytes..."
+"2"," [84%] Downloaded 277613 bytes..."
+"2"," [89%] Downloaded 293961 bytes..."
+"2"," [100%] Downloaded 327543 bytes..."
+"2","
+"
+"2"," [100%] Downloaded 1271 bytes..."
+"2","
+"

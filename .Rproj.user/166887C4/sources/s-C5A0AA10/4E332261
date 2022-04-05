@@ -3,7 +3,7 @@
     "path": "~/lht/a_fourth_year/JSC370/labs/lab12_git/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2244428223",
     "contents": "",
     "dirty": false,
     "created": 1649186964015.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,17",
+        "cursorPosition": "10,17",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649188186,
+    "lastKnownWriteTime": 1649189560,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649188186811,
+    "last_content_update": 1649189560702,
     "read_only": false,
     "read_only_alternatives": []
 }
