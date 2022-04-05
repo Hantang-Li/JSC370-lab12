@@ -11,7 +11,6 @@ This is my JSC370 Final Project website.
 # Hello world
 
 ```{r}
-#https://fontawesome.com/
 plot(0:20)
 ```
 
